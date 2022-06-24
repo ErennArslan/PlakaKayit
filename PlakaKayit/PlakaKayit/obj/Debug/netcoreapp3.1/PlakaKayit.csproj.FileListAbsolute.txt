@@ -1,0 +1,15 @@
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.exe
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.deps.json
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.runtimeconfig.json
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.runtimeconfig.dev.json
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.dll
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\bin\Debug\netcoreapp3.1\PlakaKayit.pdb
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.csprojAssemblyReference.cache
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.Form1.resources
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.csproj.GenerateResource.cache
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.AssemblyInfoInputs.cache
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.AssemblyInfo.cs
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.csproj.CoreCompileInputs.cache
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.dll
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.pdb
+C:\Users\Arslanlar\source\repos\PlakaKayit\PlakaKayit\obj\Debug\netcoreapp3.1\PlakaKayit.genruntimeconfig.cache
